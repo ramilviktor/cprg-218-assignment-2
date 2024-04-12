@@ -25,7 +25,8 @@ body{
 
 .hero-container h1{
     font-size: clamp(2rem, 6vw, 6vw);
-    color: rgb(163, 0, 0);
+    color: rgb(0, 0, 0);
+    text-align: center;
 }
 
 .hero-container p{
@@ -50,8 +51,8 @@ body{
     list-style: none;
 }
 
-.content-container h1{
-    font-size: clamp(2rem, 5vw, 5vw);
+h2{
+    font-size: clamp(0.5rem, 2vw, 2vw);
     text-align: center;
 }
 
